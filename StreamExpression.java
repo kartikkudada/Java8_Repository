@@ -28,3 +28,18 @@ public class StreamExpression {
 		
 	}
 }
+
+/*
+output 
+
+Before java 8
+
+After java 8
+[B, D, A, I, G, O, Q, J]
+multiplying every elements of list in java8, Just a single line of code
+[2, 10, 12, 14, 6, 12, 20]
+
+
+
+
+*/
